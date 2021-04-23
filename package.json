@@ -1,0 +1,17 @@
+{
+  "name": "crypto-converter",
+  "version": "1.0.0",
+  "description": "Converts crypto currentcies by they rate",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "mutation-test": "stryker run"
+  },
+  "author": "Mykolas",
+  "license": "ISC",
+  "devDependencies": {
+    "@stryker-mutator/core": "^4.6.0",
+    "@stryker-mutator/jest-runner": "^4.6.0",
+    "jest": "^26.6.3"
+  }
+}
